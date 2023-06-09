@@ -11,4 +11,4 @@ Our platform leverages the power of **Chainlink Automation** and **Chainlink Ora
 
 ---
 
-🔗 [WICCA WebApp]([http://wicca.com](https://wicca-fi.web.app/))
+🔗 [WICCA WebApp](https://wicca-fi.web.app/)
